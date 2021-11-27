@@ -1,0 +1,7 @@
+address:
+  number: 170
+  street: Alameda de las Pulgas
+  city: ${locations.cities.redwood-city}
+  state: ${locations.states.ca}
+  country: ${locations.countries.usa}
+type: hospital

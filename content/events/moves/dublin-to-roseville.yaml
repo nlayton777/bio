@@ -1,0 +1,12 @@
+origin: ${locations.homes.dublin}
+destination: ${locations.homes.roseville}
+date:
+  month: 11
+  day:
+  year: 1999
+participants:
+  - ${relationships.people.me}
+  - ${relationships.people.family.mom}
+  - ${relationships.people.family.dad}
+  - ${relationships.people.family.mitch}
+  - ${relationships.animals.murphy}

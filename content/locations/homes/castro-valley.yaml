@@ -1,0 +1,12 @@
+address:
+  number:
+  street:
+  city: ${locations.cities.castro-valley}
+  state: ${locations.states.ca}
+  zip:
+  country: ${locations.countries.usa}
+residents:
+  - ${relationships.people.me}
+  - ${relationships.people.mom}
+  - ${relationships.people.dad}
+  - ${relationships.animals.murphy}

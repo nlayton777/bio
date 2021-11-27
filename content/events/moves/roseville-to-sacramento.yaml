@@ -1,0 +1,8 @@
+origin: ${locations.homes.roseville}
+destination: ${locations.homes.sacramento}
+date:
+  month:
+  day:
+  year: 2010
+participants:
+  - ${relationships.people.me}

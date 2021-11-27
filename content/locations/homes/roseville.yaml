@@ -1,0 +1,14 @@
+address:
+  number: 449
+  street: Sunningdale Court
+  city: ${locations.cities.roseville}
+  state: ${locations.states.ca}
+  zip: 95747
+  country: ${locations.countries.usa}
+residents:
+  - ${relationships.people.me}
+  - ${relationships.people.mom}
+  - ${relationships.people.dad}
+  - ${relationships.people.mitch}
+  - ${relationships.animals.murphy}
+  - ${relationships.animals.scruffy}

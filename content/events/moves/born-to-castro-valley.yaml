@@ -1,0 +1,10 @@
+origin: ${locations.landmarks.sequoia-hospital}
+destination: ${locations.homes.castro-valley}
+date:
+  month: 12
+  day: 30
+  year: 1991
+participants:
+  - ${relationships.people.me}
+  - ${relationships.people.family.mom}
+  - ${relationships.people.family.dad}

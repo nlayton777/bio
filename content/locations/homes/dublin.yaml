@@ -1,0 +1,13 @@
+address:
+  number: 6512
+  street: King Way
+  city: ${locations.cities.dublin}
+  state: ${locations.states.ca}
+  zip: 94568
+  country: ${locations.countries.usa}
+residents:
+  - ${relationships.people.me}
+  - ${relationships.people.mom}
+  - ${relationships.people.dad}
+  - ${relationships.people.mitch}
+  - ${relationships.animals.murphy}

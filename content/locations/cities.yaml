@@ -1,0 +1,24 @@
+castro-valley-ca:
+  name: Castro Valley
+  state: ${locations.states.ca}
+  country: ${locations.countries.usa}
+dublin-ca:
+  name: Dublin
+  state: ${locations.states.ca}
+  country: ${locations.countries.usa}
+roseville-ca:
+  name: Roseville
+  state: ${locations.states.ca}
+  country: ${locations.countries.usa}
+davis-ca:
+  name: Davis
+  state: ${locations.states.ca}
+  country: ${locations.countries.usa}
+redwood-city:
+  name: Redwood City
+  state: ${locations.states.ca}
+  country: ${locations.countries.usa}
+sacramento:
+  name: Sacramento
+  state: ${locations.states.ca}
+  country: ${locations.countries.usa}

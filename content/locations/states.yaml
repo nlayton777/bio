@@ -1,0 +1,4 @@
+ca:
+  name: California
+  abbreviation: CA
+  country: ${locations.countries.usa}

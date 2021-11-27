@@ -1,0 +1,9 @@
+address:
+  number: 6000
+  street: J Street
+  city: ${locations.cities.sacramento}
+  state: ${locations.states.ca}
+  zip: 95819
+  country: ${locations.countries.usa}
+residents:
+  - ${relationships.people.me}
